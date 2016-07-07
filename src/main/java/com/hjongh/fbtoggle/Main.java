@@ -1,12 +1,5 @@
 package com.hjongh.fbtoggle;
 
-import org.lwjgl.input.Keyboard;
-
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.settings.KeyBinding;
-import net.minecraft.util.ChatComponentText;
-import net.minecraftforge.fml.client.registry.ClientRegistry;
-import net.minecraftforge.fml.common.FMLCommonHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -19,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
  * A lightweight, barebones Forge mod I created to allow easy switch between default
  * and fullbright gamma settings.
  * 
- * @author Jongh
+ * @author Jongh aka hjongh
  */
 @Mod(modid = Main.MODID, name = Main.MODNAME, version = Main.VERSION)
 public class Main {
