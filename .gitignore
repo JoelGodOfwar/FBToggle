@@ -1,22 +1,11 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
+bin/
+build/
+eclipse/
+run/
+.gradle/
+.settings/
 .classpath
 .project
-
-# idea
-out
-*.ipr
-*.iws
-*.iml
-.idea
-
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
+.DS_Store
+*.launch
+Thumbs.db
