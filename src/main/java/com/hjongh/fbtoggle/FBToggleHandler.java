@@ -29,9 +29,11 @@ public class FBToggleHandler {
 	     		Minecraft.getMinecraft().gameSettings.gammaSetting = 1;
 	     		Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("Set gamma to default value." )); 
 	     	}
-	     	
-	     	//Switch the fullbright setting
-	         Minecraft.getMinecraft().gameSettings.gammaSetting = (((Minecraft.getMinecraft().gameSettings.gammaSetting+13)%28) + 1);
+	     	else 
+	     	{
+	     		//Switch the fullbright setting
+	     		Minecraft.getMinecraft().gameSettings.gammaSetting = (((Minecraft.getMinecraft().gameSettings.gammaSetting+13)%28) + 1);
+	     	}
 	     }
 	 }
 }
