@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
  * A lightweight, barebones Forge mod I created to allow easy switch between default
  * and fullbright gamma settings.
  * 
- * @author Jongh aka hjongh
+ * @author hjongh
  */
 @Mod(modid = Main.MODID, name = Main.MODNAME, version = Main.VERSION)
 public class Main {

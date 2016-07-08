@@ -4,7 +4,7 @@
   "name": "FBToggle",
   "description": "FBToggle mod adds fullbright toggle functionality, accessible with a hotkey that can be changed in the Controls.",
   "version": "1.1",
-  "mcversion": "${1.8.9}",
+  "mcversion": "",
   "url": "http://minecraft.curseforge.com/projects/fullbright-toggle",
   "updateUrl": "",
   "authorList": ["hjongh"],
