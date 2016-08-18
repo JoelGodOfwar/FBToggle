@@ -11,3 +11,7 @@ Mod Installation Guide:
 Download mod version corresponding to the Minecraft version you are using, and
 drop it in the mods folder of your .minecraft files. You'll need to be using
 Forge in order to use this mod.
+
+Note: 
+Mod is only compatible with latest versions of Forge for versions 1.7-1.9, and latest version of
+Forge at time of this mod's release for Forge 1.10.
