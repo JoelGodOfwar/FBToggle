@@ -1,6 +1,4 @@
 # FBToggle
-FBToggle
-
 Minecraft Forge modification made to be a lightweight solution to the famous fullbright problem. Toggles fullbright lighting with press of hotkey.
 
 Cannot be used in conjunction with a texture-pack that has fullbright-lighting, this cannot ovverride that.
